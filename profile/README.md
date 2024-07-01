@@ -1,4 +1,4 @@
-# ![CryptCloud Labs](https://github.com/CryptCloudCC/.github/blob/main/branding/brand/svg/logo-no-background.svg)
+# ![CryptCloud Labs](https://github.com/CryptCloudCC/.github/blob/main/branding/brand/svg/logo-color.svg)
 > Developing open offensive tooling!
 
 ## Welcome to CryptCloud Labs! 🚀
